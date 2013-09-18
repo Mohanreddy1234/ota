@@ -1,0 +1,1 @@
+/Users/rmohan/Library/Developer/Xcode/DerivedData/BetaBuilder-avvxkfhgfeizoydbjrdcwcbsmihj/Build/Products/Debug/BetaBuilder for iOS Apps.app/Contents/Resources/README
